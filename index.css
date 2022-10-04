@@ -1,0 +1,113 @@
+.Rectangle-1 {
+  background-color: rgb(24, 80, 80);
+  height: 300px;
+  width: 360px;
+  border: 2px solid rgb(232, 231, 230);
+  border-radius: 2px;
+  position: absolute;
+  top: 100px;
+  bottom: 100px;
+  margin-left: 40%;
+  display: block;
+}
+
+.circle11 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgb(21, 250, 9);
+  left: -20px;
+  top: -25px;
+  position: absolute;
+}
+
+.circle12 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgb(21, 250, 9);
+  right: -30px;
+  top: -25px;
+  position: absolute;
+}
+
+.circle13 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgb(21, 250, 9);
+  left: -20px;
+  bottom: -25px;
+  position: absolute;
+}
+
+.circle14 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgb(21, 250, 9);
+  right: -30px;
+  bottom: -25px;
+  position: absolute;
+}
+
+.Rectangle-2 {
+  background-color: rgb(98, 12, 122);
+  height: 200px;
+  width: 250px;
+  border: 2px solid rgb(8, 150, 36);
+  border-radius: 4px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.circle21 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  background-color: whitesmoke;
+  left: -15px;
+  top: -15px;
+  position: absolute;
+}
+
+.circle22 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  background-color: whitesmoke;
+  right: -15px;
+  top: -15px;
+  position: absolute;
+}
+
+.circle23 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  background-color: whitesmoke;
+  left: -15px;
+  bottom: -15px;
+  position: absolute;
+}
+
+.circle24 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  background-color: whitesmoke;
+  right: -15px;
+  bottom: -15px;
+  position: absolute;
+}
+
+.img {
+  margin: 22px;
+  height: 150px;
+  width: 80%;
+  background-repeat: no-repeat;
+  border: 2px solid whitesmoke;
+  background-size: 25px;
+  border-radius: 5px;
+}
